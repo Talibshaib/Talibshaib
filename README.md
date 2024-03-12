@@ -4,7 +4,6 @@ I am a:
 - Software Engineering student at TIT, Bhopal.
 - Softwere Development enthusiast
 - App Developer
-- Campus Expert
  
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibshaib&theme=github_dark&layout=compact&hide_border=true" /></a>
 
