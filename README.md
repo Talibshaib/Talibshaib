@@ -19,7 +19,8 @@ I am a:
 - Tailwind CSS
 - JavaScript
 - ReactJS
-- React-Native  
+- React-Native
+- Python  
 
 ## You can reach me at:
 - [LinkedIn](https://www.linkedin.com/in/talib-sheikh-385a85251/)
