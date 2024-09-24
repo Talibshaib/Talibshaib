@@ -1,9 +1,9 @@
 <!-- Replace the placeholder URLs with your actual links -->
 # Hi! I am Talib Sheikh 👋
 I am a:
-- Software Engineering student at TIT, Bhopal.
-- Softwere Development enthusiast
-- App Developer
+- Software Engineer.
+- FrontEnd Developer at @GoKapture Event Technology 
+- Turning creative ideas into pixel-perfect reality, one line of code at a time.
  
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibshaib&theme=github_dark&layout=compact&hide_border=true" /></a>
 
@@ -18,7 +18,9 @@ I am a:
 - Figma
 - Tailwind CSS
 - JavaScript
+- TypeScript
 - ReactJS
+- NextJS
 - React-Native
 - Python  
 
