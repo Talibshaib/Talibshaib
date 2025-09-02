@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 About Me
-
 - 💼 **Software Engineer** passionate about creating exceptional user experiences
 - 🎨 **Frontend Developer** at @GoKapture Event Technology
 - 💡 **Creative Problem Solver** - Turning ideas into pixel-perfect reality
@@ -42,6 +41,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -52,42 +52,128 @@
 </div>
 
 ### 🚀 Frameworks & Libraries
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
 
-### 🛠️ Tools & Platforms
+### 🔧 Tools & Platforms
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 💼 Experience
+
+### **Frontend Developer** | *GoKapture Event Technology* | Remote
+**April 2024 - Present**
+- Developed responsive web applications using React.js and TypeScript, improving user engagement by 40%
+- Implemented real-time features using WebSockets, enhancing event management capabilities
+- Collaborated with cross-functional teams to deliver pixel-perfect UI components
+
+### **Software Engineer** | *Next IT Solution* | Remote
+**January 2024 - March 2024**
+- Built scalable web applications using Next.js and Node.js, reducing page load times by 35%
+- Designed and implemented RESTful APIs for seamless data integration
+- Optimized application performance through code splitting and lazy loading techniques
+
+### **Full Stack Developer** | *GapAssess Solution* | Remote
+**October 2023 - December 2023**
+- Created comprehensive assessment platforms using React.js and Express.js
+- Integrated MongoDB for efficient data storage and retrieval
+- Developed user authentication systems with JWT tokens for secure access
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- **JavaScript (ES6+)** - Advanced proficiency in modern JavaScript features
+- **TypeScript** - Strong typing and object-oriented programming
+- **Python** - Backend development and scripting
+- **C++** - Systems programming and algorithms
+
+### Libraries/Frameworks
+- **React.js** - Component-based UI development
+- **Next.js** - Server-side rendering and static site generation
+- **React Native** - Cross-platform mobile development
+- **Node.js** - Server-side JavaScript runtime
+- **Express.js** - Web application framework
+- **REST APIs** - API design and implementation
+- **WebSockets** - Real-time communication
+
+### Tools/Platforms
+- **Git** - Version control and collaboration
+- **GitHub** - Code hosting and project management
+- **Linux** - Command line and system administration
+- **Docker** - Containerization and deployment
+- **Postman** - API testing and documentation
+
+### Databases
+- **MongoDB** - NoSQL document database
+- **MySQL** - Relational database management
+- **Supabase** - Backend-as-a-Service platform
+
+---
+
+## 🚀 Projects & Open-Source
+
+### **Agentic_AI**
+**AI-Driven Task Automation Platform**
+- Working on AI-driven agents that automate regular or complex tasks
+- Implementing machine learning algorithms for intelligent decision making
+- Building scalable architecture for handling multiple concurrent tasks
+
+---
+
+## 🎓 Certifications
+
+- **Full-Stack Web Development** - Udemy (2023)
+  - Comprehensive training in modern web development technologies
+  - Hands-on projects covering frontend and backend development
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 **Won LAKECITY HACK 2025** - JLU School Of Engineering & Technology
+  - First place in competitive hackathon with innovative solution
+- 🎯 **Qualified for Energy Hackathon 2025** - IIT Delhi
+  - Selected among top participants for prestigious national-level hackathon
+- 🌟 **Qualified for HACKSTAY** - Microsoft Office
+  - Recognized for exceptional coding skills and problem-solving abilities
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/talib-sheikh-385a85251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/talibshaib" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mdtalib23038@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:talibshaib@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://holopin.io/@talibshaib">
-    <img src="https://img.shields.io/badge/Holopin-000000?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin" />
-  </a>
-</div>
-
-### 🏅 Holopin Badges
-<div align="center">
-  <a href="https://holopin.io/@talibshaib">
-    <img src="https://holopin.me/talibshaib" alt="Holopin badges" />
+  <a href="https://github.com/Talibshaib" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -95,8 +181,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
-  ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
-  
-  <strong>Thanks for visiting! Feel free to connect and collaborate! 🚀</strong>
 </div>
