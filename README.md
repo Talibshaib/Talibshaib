@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Talib Sheikh!
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software+Engineer+%7C+Frontend+Developer;Turning+creative+ideas+into+pixel-perfect+reality;One+line+of+code+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -6,22 +7,17 @@
 ---
 
 ## 🚀 About Me
-
 🔹 **Lead Technical Developer @ Next IT Soln**
-
 **Transforming complex problems into scalable, intelligent solutions.**
-
-• Passionate about building AI-driven systems (NLP, Computer Vision, Generative AI), large-scale distributed architectures, and bridging the gap between research and impactful products.
-
-• Leadership style: Empower teams via mentorship, collaborative problem-solving, fostering innovation, and setting high coding standards through code reviews and knowledge-sharing.
-
-• Recent highlight: Led the successful design & deployment of a mission-critical AI-powered platform scaled to millions of users—boosting efficiency and reliability, reducing overhead.
-
-• Outside work: Avid mountain climber—thrives on tough challenges, whether scaling peaks or building high-performing tech teams.
+• Building AI-driven systems (NLP, Generative AI), large-scale distributed architectures.
+• Leadership style: Collaborative problem-solving and fostering innovation.
+• Recent highlight: Led the successful design & deployment of a mission-critical AI-powered AlgoTrading platform.
+• Outside work: Avid mountain climber—thrives on tough challenges.
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talibshaib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talibshaib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -34,6 +30,7 @@
 ---
 
 ## 🏆 Profile Stats & Achievements
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Talibshaib&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Talibshaib?label=Followers&style=flat-square&color=blue" alt="Followers" />
@@ -74,6 +71,7 @@
 ---
 
 ## 🤝 Connect With Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/talib-sheikh-385a85251/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -81,4 +79,24 @@
   <a href="mailto:mdtalib23038@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://holopin.io/@talibshaib">
+    <img src="https://img.shields.io/badge/Holopin-000000?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin" />
+  </a>
+</div>
+
+### 🏅 Holopin Badges
+<div align="center">
+  <a href="https://holopin.io/@talibshaib">
+    <img src="https://holopin.me/talibshaib" alt="Holopin badges" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  
+  ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
+  
+  <strong>Thanks for visiting! Feel free to connect and collaborate! 🚀</strong>
 </div>
