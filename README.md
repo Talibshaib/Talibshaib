@@ -7,12 +7,18 @@
 ---
 
 ## 🚀 About Me
-🔹 **Lead Technical Developer @ Next IT Soln**
+
+**🔹 Lead Technical Developer @ Next IT Soln**
+
 **Transforming complex problems into scalable, intelligent solutions.**
-• Building AI-driven systems (NLP, Generative AI), large-scale distributed architectures.
-• Leadership style: Collaborative problem-solving and fostering innovation.
-• Recent highlight: Led the successful design & deployment of a mission-critical AI-powered AlgoTrading platform.
-• Outside work: Avid mountain climber—thrives on tough challenges.
+
+• **Building AI-driven systems:** NLP, Generative AI, large-scale distributed architectures
+
+• **Leadership style:** Collaborative problem-solving and fostering innovation
+
+• **Recent highlight:** Led the successful design & deployment of a mission-critical AI-powered AlgoTrading platform
+
+• **Outside work:** Avid mountain climber—thrives on tough challenges
 
 ---
 
